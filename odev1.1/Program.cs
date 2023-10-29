@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace odev1;
+namespace odev1._1;
 
 class Program
 {
@@ -41,6 +41,7 @@ static class Kontrol
                 Console.Write(i+1+".sayı: ");
                 dizi[i] = PozitifSayiAl();
         }
+        Console.Write("Girdiğiniz pozitif çift sayılar: ");
         foreach (int sayi in dizi)
         {
             if (sayi % 2 == 0)
