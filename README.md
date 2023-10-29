@@ -1,2 +1,5 @@
 # odev1
-Bu çalışma PatikaAcademy.dev "Ödev 1" dersi için yapılmıştır. 
+Bu çalışma PatikaAcademy.dev "Ödev 1" dersi için yapılmıştır.
+
+### LICENSE
+[MIT](LICENSE)
